@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+com.s13998159.CPEN431_2020_A3.Main-Class: com.s13998159.CPEN431_2020_A3.Main
+

@@ -1,2 +1,7 @@
-# Distributed-Systems-Assignments
-A collection of all CPEN 431 assignment submissions under one repository
+# CPEN431_2020_A3_13998159
+
+Student ID: 13998159
+Student Name: Eui Sun Ahn 
+
+## Usage 
+
